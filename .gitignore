@@ -1,0 +1,10 @@
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+*.sln
+*.VC.db
+*.VC.opendb
+*.log
+*.tmp
